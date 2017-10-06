@@ -1,0 +1,14 @@
+// This file is to declare application level/global variables and configuration settings. You can declare variables in a key value pair.Sample example as below :
+{
+  "projectName": "Intranet",
+  "intranet": {
+    "url": "https://intranet.mgmt.local/D/PTC1/TAFTestPage"
+  }, 
+  "browser": "phantomjs",
+	"textFilePath":".\\src\\example\\datafile\\sampletxt.txt",
+  "excelPath":".\\src\\example\\datafile\\SampleExcel.xlsx",
+  "APIxlPath":".\\src\\example\\datafile\\APIDataFile.xlsx",
+  "pdfPath":".\\src\\example\\datafile\\Show.pdf",
+  "mochaTimeoutMS": 50000,
+  "log4jPath": ".\\log\\"
+}
